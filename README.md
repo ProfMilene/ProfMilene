@@ -1,4 +1,12 @@
-## Hi there 👋
+## Seja bem vindo ao meu perfil ✨
+Meu nome Milene
+
+- Sou professora de Tecnologia e Robótica
+- Estou ensinando sobre a linguagem JavaScript
+- Utilizo esse espaço para a organização e compartilhamento dos projetos
+
+## Você pode me encontrar em:
+msinibaldi@prof.educacao.sp.gov.br
 
 <!--
 **ProfMilene/ProfMilene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
