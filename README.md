@@ -8,6 +8,7 @@ Meu nome Milene
 ## Você pode me encontrar em:
 msinibaldi@prof.educacao.sp.gov.br
 
+![](https://media1.tenor.com/m/49GR_5KPsNEAAAAC/thank-you-bow.gif)
 <!--
 **ProfMilene/ProfMilene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
